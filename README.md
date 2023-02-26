@@ -7,11 +7,11 @@
 #
 *pkg install git*
 #
-*git clone https://github.com/KutuMobaa/get-token*
+_git clone https://github.com/KutuMobaa/get-token_
 #
 *cd get-token*
 #
-*chmod +x **
+_chmod +x *_
 #
 *python run.py*
 #
