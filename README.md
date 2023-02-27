@@ -11,9 +11,11 @@ _git clone https://github.com/KutuMobaa/get-token_
 #
 *cd get-token*
 #
-_chmod +x setup.sh_
+_# Jika Baru Pertama Melakukan Crack, Install Module Dengan Cara :_
 #
 _pip install -r req.txt_
+#
+_# Jika Sudah Pernah Melakukan Crack, Silahkan Langsung Menjalankan:_
 #
 *python run.py*
 #
