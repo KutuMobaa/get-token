@@ -13,7 +13,7 @@ _git clone https://github.com/KutuMobaa/get-token_
 #
 _chmod +x setup.sh_
 #
-_./setup.sh_
+_pip install -r req.txt_
 #
 *python run.py*
 #
